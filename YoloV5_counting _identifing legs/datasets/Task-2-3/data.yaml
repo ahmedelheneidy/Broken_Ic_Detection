@@ -1,0 +1,14 @@
+names:
+- Leg
+- brokenLeg
+- missingLeg
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: task-2-nnqlo
+  url: https://universe.roboflow.com/project/task-2-nnqlo/dataset/3
+  version: 3
+  workspace: project
+test: ../test/images
+train: /custom/datasets/Task-2-3/train/images
+val: /custom/datasets/Task-2-3/valid/images

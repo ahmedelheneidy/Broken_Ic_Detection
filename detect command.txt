@@ -1,0 +1,1 @@
+python detect.py --weights runs/train/exp/weights/best11.pt --img 416 --conf 0.1 --source datasets/Task-2-3/test/images
